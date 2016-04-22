@@ -1,7 +1,7 @@
 name: MustafaGuvenc
 favicon: null
 layout_spectrum: 0.9214669626671821
-typography_spectrum: 0.9834374352358282
+typography_spectrum: 0.49577
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.47756767831742764
+  brandStrength: 0.5
   lightness: 0.5749775229487568
   saturation: 0.7761365571059287
   rhythmicContrast: 0.6567078055813909
